@@ -595,8 +595,8 @@
     "username_claimed": "mbozzi"
   },
   "Cracked": {
-    "errorType": "message",
-    "errorMsg": "https://www.cracked.com/",
+    "errorType": "response_url",
+    "errorUrl": "https://www.cracked.com/",
     "url": "https://www.cracked.com/members/{}",
     "urlMain": "https://www.cracked.com/",
     "username_claimed": "blue"
